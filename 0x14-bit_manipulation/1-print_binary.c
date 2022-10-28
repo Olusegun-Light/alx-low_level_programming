@@ -8,7 +8,6 @@
 void print_binary(unsigned long int n)
 {
 	unsigned int flag = 0, max = 32768; /* 1000 0000 0000 0000 */
-
 	if (n == 0)
 	{
 		_putchar('0');
