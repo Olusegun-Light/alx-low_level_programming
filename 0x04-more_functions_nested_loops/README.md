@@ -1,4 +1,4 @@
-This directory contains the answer files to the project 0x03. C - More functions, more nested loops
+This directory contains the answer files to the project 0x04. C - More functions, more nested loops
 
 0-isupper.c - checks for uppercase character.
 
